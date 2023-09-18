@@ -1,16 +1,15 @@
-### Hi there 👋
+I'm Sajitha Madugalle, a Biomedical Engineering undergraduate passionate about Electronics, Biomedical device designing, and Machine Learning. 🚀
 
-<!--
-**Sajitha-Madugalle/Sajitha-Madugalle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Interested In
 
-Here are some ideas to get you started:
+<img src="python_icon.png" alt="Python Icon" width="18" height="18"> Python &nbsp; &nbsp;
+<img src="cplusplus_icon.png" alt="C++ Icon" width="18" height="18"> C++ &nbsp; &nbsp;
+<img src="machine_learning_icon.png" alt="Machine Learning Icon" width="18" height="18"> Machine Learning &nbsp; &nbsp;
+<img src="electronics_icon.png" alt="Electronics Icon" width="18" height="18"> Electronics 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Connect with Me
+
+[<img src="in.png" alt="Electronics Icon" width="18" height="18"> Linkedin](https://www.linkedin.com/in/sajitha-madugalle) &nbsp; &nbsp;
+[<img src="inst.png" alt="Electronics Icon" width="18" height="18"> Instagram](https://www.instagram.com/your_instagram_username/)
+
+Feel free to connect with me on LinkedIn or Instagram to discuss collaborations and projects!
