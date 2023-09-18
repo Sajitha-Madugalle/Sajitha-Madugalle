@@ -9,7 +9,7 @@ I'm Sajitha Madugalle, a Biomedical Engineering undergraduate passionate about E
 
 ### Connect with Me
 
-[<img src="in.png" alt="Electronics Icon" width="18" height="18"> Linkedin](https://www.linkedin.com/in/sajitha-madugalle-2a2172241/) &nbsp; &nbsp;
+[<img src="in.png" alt="Electronics Icon" width="18" height="18"> Linkedin](https://www.linkedin.com/in/sajitha-madugalle-2a2172241) &nbsp; &nbsp;
 [<img src="inst.png" alt="Electronics Icon" width="18" height="18"> Instagram](https://instagram.com/__sajitha_madugalle_?igshid=OGQ5ZDc2ODk2ZA==)
 
 Feel free to connect with me on LinkedIn or Instagram to discuss collaborations and projects!
