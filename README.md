@@ -1,10 +1,10 @@
-I'm Sajitha Madugalle, a Biomedical Engineering undergraduate passionate about Electronics, Biomedical device designing, and Machine Learning. 🚀
+I'm Sajitha Madugalle, a Biomedical Engineering undergraduate passionate about Electronics, Biomedical device designing, and Human Computer Interaction. 🚀
 
 ### Interested In
 
 <img src="python_icon.png" alt="Python Icon" width="18" height="18"> Python &nbsp; &nbsp;
 <img src="cplusplus_icon.png" alt="C++ Icon" width="18" height="18"> C++ &nbsp; &nbsp;
-<img src="machine_learning_icon.png" alt="Machine Learning Icon" width="18" height="18"> Machine Learning &nbsp; &nbsp;
+<img src="machine_learning_icon.png" alt="Machine Learning Icon" width="18" height="18"> Human Computer Interaction &nbsp; &nbsp;
 <img src="electronics_icon.png" alt="Electronics Icon" width="18" height="18"> Electronics 
 
 ### Connect with Me
