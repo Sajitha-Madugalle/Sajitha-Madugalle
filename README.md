@@ -7,6 +7,9 @@ I'm Sajitha Madugalle, a Biomedical Engineering undergraduate passionate about E
 <img src="machine_learning_icon.png" alt="Machine Learning Icon" width="18" height="18"> Human Computer Interaction &nbsp; &nbsp;
 <img src="electronics_icon.png" alt="Electronics Icon" width="18" height="18"> Electronics 
 
+<img width=390 src="https://github-readme-stats.vercel.app/api?username=Sajitha-Madugalle&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+
+
 ### Connect with Me
 
 [<img src="in.png" alt="Electronics Icon" width="18" height="18"> Linkedin](https://www.linkedin.com/in/sajitha-madugalle-2a2172241) &nbsp; &nbsp;
